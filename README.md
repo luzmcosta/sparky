@@ -1,7 +1,8 @@
 # Sparky
 
-Born of Sparky, a JavaScript library for drawing sparklines dynamically
-in your web browser, written by @shawnbot.
+Born of [Sparky](https://github.com/shawnbot/sparky), a JavaScript
+library for drawing sparklines dynamically in your web browser,
+written by @shawnbot.
 
 Sparklines are intense, simple, word-sized graphics. This library
 empowers creating them quickly.
