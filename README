@@ -1,5 +1,15 @@
-Sparklines are intense, simple, word-sized graphics. Sparky is a JavaScript
-library for drawing them dynamically in your web browser.
+# Sparky
 
-This project isn't actively developed, but feel free to fork, modify or fix,
-and I'll (@shawnbot) happily accept pull requests. Enjoy!
+Born of Sparky, a JavaScript library for drawing sparklines dynamically
+in your web browser, written by @shawnbot.
+
+Sparklines are intense, simple, word-sized graphics. This library
+empowers creating them quickly.
+
+# Contributing
+
+## Engineering Tasks
+- Optimize for modern browsers
+- Test
+- Bundle
+- Publish to npm
